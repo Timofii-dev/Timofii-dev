@@ -14,3 +14,5 @@ Interested in modern web development, UI/UX and creating useful web apps.
 * Git / GitHub
 
 🚀 Always learning and improving
+
+* 📫 How to reach me timofiiyakovliev@gmail.com
